@@ -4,16 +4,33 @@ Standarisasi Repository<br />
 Selamat datang di repository proyek demo Bro Do. Kami memegang teguh standar tertentu untuk memastikan konsistensi, keamanan, dan kualitas dalam pengembangan proyek ini. Mohon membaca panduan di bawah ini sebelum berkontribusi atau menggunakan proyek ini.<br />
 <br />
 Struktur Folder<br />
-/Objects Repository: Direktori ini berisi objek-objek dari aplikasi Web maupun Mobile yang dapat setelah di spy menggunakan tools yang di sediakan oleh Katalon Studio.<br />
-/Objects Repository/Mobile: Direktori ini hanya berisi objek-objek dari aplikasi Mobile.<br />
-/Objects Repository/Web: Direktori ini hanya berisi objek-objek dari aplikasi Web.<br />
-/Test Cases: Direktori ini berisi file-file pengujian proyek untuk aplikasi Web maupun Mobile.<br />
-/Test Cases/Mobile: Direktori ini hanya berisi  file-file pengujian proyek untuk aplikasi Mobile.<br />
-/Test Cases/Web: Direktori ini hanya berisi file-file pengujian proyek untuk aplikasi Mobile.<br />
-/Test Suites: Direktori ini berisi kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Web maupun Mobile.<br />
-/Test Cases/Mobile: Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.<br />
-/Test Cases/Web: Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.<br />
-/Data Files: Direktori ini untuk menampung file-file berformat apapun, seperti .xls, .xlsx, .csv dll., yang berisi data sedikit atau banyak yang di bisa di gunakan untuk mempermudah dan mempercepat proses automasi.<br />
+/Objects Repository:<br />
+Direktori ini berisi objek-objek dari aplikasi Web maupun Mobile yang dapat setelah di spy menggunakan tools yang di sediakan oleh Katalon Studio.<br />
+<br />
+/Objects Repository/Mobile: <br />
+Direktori ini hanya berisi objek-objek dari aplikasi Mobile.<br />
+<br />
+/Objects Repository/Web:<br />
+Direktori ini hanya berisi objek-objek dari aplikasi Web.<br />
+<br />
+/Test Cases:<br /> 
+Direktori ini berisi file-file pengujian proyek untuk aplikasi Web maupun Mobile.<br />
+<br />
+/Test Cases/Mobile:<br />
+Direktori ini hanya berisi  file-file pengujian proyek untuk aplikasi Mobile.<br />
+<br />
+/Test Cases/Web:<br /> Direktori ini hanya berisi file-file pengujian proyek untuk aplikasi Mobile.<br />
+<br />
+/Test Suites: <br />
+Direktori ini berisi kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Web maupun Mobile.<br />
+<br />
+/Test Cases/Mobile:<br /> Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.<br />
+<br />
+/Test Cases/Web:<br /> Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.<br />
+<br />
+/Data Files:<br />
+Direktori ini untuk menampung file-file berformat apapun, seperti .xls, .xlsx, .csv dll., yang berisi data sedikit atau banyak yang di bisa di gunakan untuk mempermudah dan mempercepat proses automasi.<br />
+<br />
 <br />
 Pedoman Penamaan File<br />
 Gunakan huruf TC dan nomor urut dari urut sebelumnya seperti ini untuk penamaan test cases dan suites. (TC1 - Login).<br />
