@@ -13,6 +13,7 @@ Struktur Folder
 /Test Suites: Direktori ini berisi kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Web maupun Mobile.
 /Test Cases/Mobile: Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.
 /Test Cases/Web: Direktori ini hanya kumpulan dari beberapa Test Case yang saling terkait dan memiliki tujuan yang sama dalam menguji suatu fitur atau komponen dalam perangkat lunak untuk aplikasi Mobile.
+/Data Files: Direktori ini untuk menampung file-file berformat apapun, seperti .xls, .xlsx, .csv dll., yang berisi data sedikit atau banyak yang di bisa di gunakan untuk mempermudah dan mempercepat proses automasi
 
 Pedoman Penamaan File
 Gunakan huruf TC dan nomor urut dari urut sebelumnya seperti ini untuk penamaan test cases dan suites. (TC1 - Login).
